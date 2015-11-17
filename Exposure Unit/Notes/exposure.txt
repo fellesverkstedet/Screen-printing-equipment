@@ -1,0 +1,114 @@
+Production Notes: To be sorted
+
+
+UV Fluoresecent
+multiple light source - undercutting
+
+Neoprene
+3/16" 4-5mm
+
+Point light source
+Halogen - low UV component
+Metal Halide
+
+High detail - exposure plus squeegee
+
+UV spectrum 320-400 nm
+48" / 120 cm
+high output black-light 110w or 38w
+unfiltered/uncoated
+distance between bulbs = distance between bulbs and glass
+BLB - Blacklight blue = a filter coating which blocks light above 400nm
+BL - Blacklight, no filter
+HO - High Output
+Peak???
+
+Amps = Watts/Volts
+
+10 x 100W = 1000w
+1000/230v = 4amps
+
+10 x 140w = 1400w
+1400/230v = 6amps
+
+
+
+F40BL BULB - 40W T12 FLUORESCENT BLACKLIGHT LAMP - PHILIPS 391532, GE 10526
+
+Philips
+
+questions
+
+Internal Reflector?
+Voltage
+Wattage
+Armature
+Right Bulbs
+lengths
+Black Light?
+Prices?
+Sockets plus Ballasts = Armature
+0080074454775
+
+F40T12/BL - Philips
+UV-A radiation 250-400nm
+Actinic BL TL G13
+20W
+350-400nm
+
+TL 100W/10-R SLV
+350-400nm
+200 deg internal reflector?
+100W
+122V
+
+F40/BL350 - Osram Sylvania
+315 - 400nm (peak 352nm)
+
+F36W/BLB
+315 - 400nm (peak 352 and 368nm)
+
+Dirasol 916 - 350-420nm
+
+Havells Sylvania Norway A.S.
+Ole Deviks Vei 44
+0668 Olso
+Phone: +47 23067470
+Fax: +47 23067471
+info.no@havells-sylvania.com
+
+1/4" (0.6cm) glass plate, optically clear!! non tempered
+
+Vacuum intake through frame
+Vacuum pump
+Nessco.no
+matress defaltor
+http://www.instructables.com/id/convert-a-tire-inflator-type-air-compressor-into-a/
+http://cgi.ebay.co.uk/Gast-0532-101-G563B-Rotary-Vane-Vacuum-Pump-Compressor_W0QQitemZ170404958906QQcmdZViewItemQQptZUK_BOI_Medical_Lab_Equipment_Lab_Equipment_ET?hash=item27aced52ba
+X-LAB can be contacted on the following numbers, Workshop Call Peter on 01366 320010 or email acesurplus@btinternet.com 
+
+Høytrykksvasker 1600 W
+
+http://www.absolute-vacuum.com/manufacturers_all.php
+
+Ballasts http://www.mcmaster.com/#fluorescent-ballasts/=4vkhnu
+17-531
+
+Lysrørholdere - https://www1.elfa.se/elfa~no_no/b2b/catalogstart.do?tab=catalog
+Lysrørreaktorere og Tånderholdere - https://www1.elfa.se/elfa~no_no/b2b/catalogstart.do?tab=catalog
+
+The light sources are designed with an oversized fan and unique cross-flow air system that incorporates a door.  Open this door and place your print frame under the UV light tubes.   The distance from your print to the UV tubes has been designed to provide maximum uniform light intensity for optimum exposure levels, and maximum corner to corner consistency.  Place your light source on a white surface, such as a piece of mat or white foam core board, to benefit from the reflected light.  This helps insure your print is exposed with ample UVA and UVB wavelengths of ultraviolet light necessary for the platinum process.  Before your first exposure, it is best to stabilize the temperature by operating the unit 3-5 minutes.  Repeat the warm-up if the unit is off more than 2 hours.
+
+kenneth.hilaire@gmail.com
+16.08.14
+Tilgang til rubber - St.Lucia
+DOUTHITT VACUUM BLANKETS - gammel info - http://www.douthittcorp.com/Catalog/blanket.pdf
+AndyMac (Andy Macdougall) - Vancouver - http://www.squeegeeville.com/about/
+Kuntze&Co - kuntze.se
+Naturgummiduk SH 60 Vulkas 2150x1900x2mm - 2035,00 SEK
+P-profil 17x30 Epdm Gummi Svart 7m 319,90.
+
+Tubes: Osram Sylvania F36W/BLB
+Vacuum top: Natural Rubber 2mm
+Vacuum source: Fridge motor
+Glass: 6mm plate (non-hardened)
